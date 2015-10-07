@@ -6,7 +6,9 @@ svg - check
 
 html for US with same path style - 
 Requirement: ability to assign value. Color change in proportion to value
+
 Requirement: Having an external data source for values (csv, JSON)
+https://gist.github.com/dnprock/5215cc464cfb9affd283
 
 exchange svg in html - 
 
