@@ -51,7 +51,7 @@
 </svg>
 <script>
     var svg = d3.select('svg');
-    d3.json("/projects/highpoverty/states", function (error, states) {
+    d3.json("http://127.0.0.1:5000/balance/elementaryresults", function (error, states) {
         states.forEach(function (state) {
             svg.select("#" + state).style('fill', 'blue')
         });
