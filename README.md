@@ -2,6 +2,12 @@
 
 W.S. Index for Germany based on real data
 
+1. adapt US map
+
+find US map with dd menu - check
+
+2. set up DE map
+
 svg - check
 
 html for US with same path style - 
